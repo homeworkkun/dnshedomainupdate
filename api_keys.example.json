@@ -1,0 +1,12 @@
+[
+  {
+    "name": "示例密钥1",
+    "api_key": "your_api_key_here",
+    "api_secret": "your_api_secret_here"
+  },
+  {
+    "name": "示例密钥2",
+    "api_key": "your_api_key_here",
+    "api_secret": "your_api_secret_here"
+  }
+]
